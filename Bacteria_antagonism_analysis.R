@@ -12,6 +12,7 @@ library(multcomp)
 library(emmeans)
 library(here)
 
+
 rm(list = ls())
 
 #data Bacteria
